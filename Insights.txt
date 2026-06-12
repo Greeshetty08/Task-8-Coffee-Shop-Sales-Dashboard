@@ -1,0 +1,9 @@
+1. Total revenue generated during the analysis period was approximately 115.43K.
+
+2. A total of 3,636 transactions were recorded.
+
+3. Latte generated the highest revenue among all coffee products.
+
+4. Card payments accounted for the majority of transactions.
+
+5. Revenue trends varied over time, indicating changes in customer demand and purchasing behavior.
